@@ -1,0 +1,31 @@
+2026-11-17 16:15:53 INFO  TC_002_logintest:21 - **** Starting TC_002_LoginTest  ****
+2026-11-17 16:18:20 INFO  TCC_001Accountregistrationtest:18 - This is a debug log message
+2026-11-17 16:18:20 ERROR TCC_001Accountregistrationtest:44 - Test failedCannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2026-11-17 16:18:20 INFO  TCC_001Accountregistrationtest:50 - Finished AccountregistrationTest
+2026-11-17 16:22:01 INFO  TCC_001Accountregistrationtest:18 - This is a debug log message
+2026-11-17 16:22:02 INFO  TCC_001Accountregistrationtest:23 - Clicked on MyAccount Link..
+2026-11-17 16:22:03 INFO  TCC_001Accountregistrationtest:25 - Clicked on Register Link..
+2026-11-17 16:22:03 INFO  TCC_001Accountregistrationtest:27 - Providing customer details...
+2026-11-17 16:22:07 INFO  TCC_001Accountregistrationtest:37 - Validating expected message..
+2026-11-17 16:22:07 INFO  TCC_001Accountregistrationtest:40 - Test passed
+2026-11-17 16:22:07 INFO  TCC_001Accountregistrationtest:50 - Finished AccountregistrationTest
+2026-11-17 16:23:41 INFO  TCC_001Accountregistrationtest:18 - This is a debug log message
+2026-11-17 16:23:41 ERROR TCC_001Accountregistrationtest:44 - Test failedCannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2026-11-17 16:23:41 INFO  TCC_001Accountregistrationtest:50 - Finished AccountregistrationTest
+2026-11-17 16:26:54 INFO  TCC_001Accountregistrationtest:18 - This is a debug log message
+2026-11-17 16:26:54 ERROR TCC_001Accountregistrationtest:44 - Test failedCannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2026-11-17 16:26:54 INFO  TCC_001Accountregistrationtest:50 - Finished AccountregistrationTest
+2026-11-17 16:35:03 INFO  TCC_001Accountregistrationtest:18 - This is a debug log message
+2026-11-17 16:35:03 ERROR TCC_001Accountregistrationtest:44 - Test failedCannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2026-11-17 16:35:03 INFO  TCC_001Accountregistrationtest:50 - Finished AccountregistrationTest
+2026-11-17 16:41:33 INFO  TCC_001Accountregistrationtest:18 - This is a debug log message
+2026-11-17 16:41:33 ERROR TCC_001Accountregistrationtest:44 - Test failedCannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2026-11-17 16:41:33 INFO  TCC_001Accountregistrationtest:50 - Finished AccountregistrationTest
+2026-11-17 16:55:24 INFO  TC_002_logintest:21 - **** Starting TC_002_LoginTest  ****
+2026-11-17 16:56:50 INFO  TC_002_logintest:21 - **** Starting TC_002_LoginTest  ****
+2026-11-17 17:04:17 INFO  TC_002_logintest:21 - **** Starting TC_002_LoginTest  ****
+2026-11-17 17:08:03 INFO  TC_002_logintest:21 - **** Starting TC_002_LoginTest  ****
+2026-11-17 18:09:49 INFO  TC_002_logintest:21 - **** Starting TC_002_LoginTest  ****
+2026-11-17 18:16:49 INFO  TC_002_logintest:21 - **** Starting TC_002_LoginTest  ****
+2026-11-17 22:38:04 INFO  TC_002_logintest:21 - **** Starting TC_002_LoginTest  ****
+2026-11-17 22:40:23 INFO  TC_002_logintest:21 - **** Starting TC_002_LoginTest  ****

@@ -1,0 +1,2 @@
+cd C:\Users\Kaviya\eclipse-workspace\Newtuturioals
+mvn
